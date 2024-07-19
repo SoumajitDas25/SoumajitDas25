@@ -31,7 +31,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/soumajitdas.soumajit) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/predator_315) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumajit-das-423b5b218/) 
-
-<!-- ## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Predator-315&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
