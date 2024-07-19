@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/Soumajit25/SoumajitDas25/main/assets/banner.jpg)
+![Banner Image](assets/banner.jpg)
 
 # <p align="center">Hi there👋, I'm ```Soumajit Das```</p>
 ### <p align="center">_- A BCA Student🧑‍🎓 passionate towards solving real-life problems through innovative code solutions💻_</p>
