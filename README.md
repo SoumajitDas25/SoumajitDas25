@@ -15,8 +15,8 @@
 | Technology | Tools & Langauges |
 |---|---|
 |Programming Languages| Java, C++, Javascript |
-|Web Development| HTML, CSS, Javascript, React, Node.js|
-|Tools| Git, Visual Studio Code|
+|Web Development| HTML, CSS, Javascript, React, Node.js, Express.js, Mongoose|
+|Tools| Git, Visual Studio Code, Postman|
 
 ## 💻 Tech Stack:
 
